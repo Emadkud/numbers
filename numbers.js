@@ -25,7 +25,7 @@ const total3= test / bis
 const total4= test * bis
 const total5= test % bis
 
-console.log(total ,total2 ,total3, total4 , )*/
+console.log(total ,total2 ,total3, total4 , total5*/
 
 /*console.log( 25 % 5) 
 console.log(`1 et 5 divise sur 25`)*/
